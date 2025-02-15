@@ -1,4 +1,4 @@
-# BreedNet\_\_Deep-Transfer-Learning-for-Dog-Classification
+# BreedWise\_\_Deep-Transfer-Learning-for-Dog-Classification
 
 ## Overview
 
